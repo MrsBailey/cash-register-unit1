@@ -4,9 +4,13 @@ AP Java Unit 1 project
 Add the following to your tasks.json:
 
 {
+
     "tasks": 
+    
         [
+        
         {
+        
             "type": "che",
             
             "label": "cash-register-unit1:maven build and run",
